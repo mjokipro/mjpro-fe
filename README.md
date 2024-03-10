@@ -7,7 +7,7 @@ An application used to display course projects for Matthew Joki, built with Reac
 
 # Installation and Setup Instructions
 
-Clone down this repository. You will need node and npm installed globally on your machine.
+Clone this repository. You will need node and npm installed globally on your machine.
 
 ## Installation:
 
@@ -26,7 +26,7 @@ npm start
 localhost:3000/
 
 # Reflection
-The drive for this project was to create an inovative capstone final project, and a personal portfolio site listing more projects, for the Software Engineering at Auburn University.
+The drive for this project was to create an innovative capstone final project, and a personal portfolio site listing more projects, for the Software Engineering at Auburn University.
 I set out to build only a basic CRUD app.
 This project was challenging because it provided the opportunity to gain experience using this new skill.
 An unexpected obsticle that I encountered was during deployment.  I must have too many free Surge sites, and secure login posed a problem, so I moved to Render.com.
